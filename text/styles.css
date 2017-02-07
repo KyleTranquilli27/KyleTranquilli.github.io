@@ -1,0 +1,315 @@
+/* Begin CSS Reset code */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 1.2em;
+    font-family: 'Arsenal', sans-serif;
+    font-family: 'Sancreek', cursive;
+    vertical-align: baseline;
+}
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+html{
+background: rgb(255, 249, 193);
+    height: 650px;
+}
+#first{
+    font-size: 5em;
+    color: rgb(255, 83, 61);
+    margin-left: 520px;
+    margin-top: 30px;
+    font-weight: 300;
+        ;
+}
+#second{
+    font-size: 1em;
+    color: rgb(255, 83, 61);
+    display: none;
+    font-weight: 100;
+    font-family: 'Arsenal', sans-serif;
+}
+#third{
+    font-size: 2em;
+    color: rgb(255, 83, 61);
+    display: none;
+    font-weight: 75;
+    font-family: 'Arsenal', sans-serif;
+ 
+}
+#fourth{
+    font-size: 5em;
+    color: rgb(255, 83, 61);
+    display: none;
+    font-weight: 500;
+    width: 700px;
+    font-family: 'Arsenal', sans-serif;
+    overflow: auto;
+ 
+}
+.button{
+    border-radius: 25%/50%;
+    width: 170px;
+    height: 80px;
+    background-color: rgb(72, 112, 77);
+    color: white;
+    text-align: center;
+    font-family: 'Arsenal', sans-serif;
+    font-size: 30px;
+    line-height: 2.5;
+    margin-bottom: 20px;
+    display: none;
+    overflow: auto;
+}
+
+a{
+   color: white;
+   font-family: 'Arsenal', sans-serif;
+   text-decoration: none;
+   font-size: 30px;
+}
+.buttoncolor{
+    background-color: darkslategrey;
+}
+#first2{
+    font-size: 5em;
+    color: rgb(255, 83, 61);
+    margin-left: 520px;
+    margin-top: 240px;
+    font-weight: 300;
+        
+}
+#first3{
+    font-size: 5em;
+    color: rgb(255, 83, 61);
+    margin-left: 400px;
+    margin-top: 240px;
+    font-weight: 300;
+        
+}
+#first4{
+    font-size: 5em;
+    color: rgb(255, 83, 61);
+    font-weight: 300;
+        
+}
+#second2{
+   font-size: 2em;
+    color: rgb(255, 83, 61);
+    font-weight: 500;
+    width: 700px;
+    margin-left: 320px;
+    font-family: 'Arsenal', sans-serif;
+    text-align: center;
+    display: none;
+    overflow: auto;
+}
+.button2{
+    border-radius: 25%/50%;
+    width: 170px;
+    height: 80px;
+    background-color: rgb(72, 112, 77);
+    color: white;
+    text-align: center;
+    font-family: 'Arsenal', sans-serif;
+    font-size: 30px;
+    line-height: 2.5;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-left: 590px;
+    display: none;
+    overflow: auto;
+}
+
+a{
+   color: white;
+   font-family: 'Arsenal', sans-serif;
+   text-decoration: none;
+   font-size: 30px;
+}
+.buttoncolor2{
+    background-color: darkslategrey;
+    
+}
+#question{
+    font-size: 2.5em;
+    color: rgb(255, 83, 61);
+    margin-left: 160px;
+    margin-top: 160px;
+    margin-right: 160px;
+    font-weight: 700;
+    font-family: 'Arsenal', sans-serif;
+    text-align: center;
+        
+}
+.button3{
+    border-radius: 25%/50%;
+    width: 170px;
+    height: 80px;
+    background-color: rgb(72, 112, 77);
+    color: white;
+    text-align: center;
+    font-family: 'Arsenal', sans-serif;
+    font-size: 20px;
+    line-height: 2.5;
+    margin-top: 80px;
+    margin-left: 200px;
+    float: left;
+    display: inline;
+}
+
+a{
+   color: white;
+   font-family: 'Arsenal', sans-serif;
+   text-decoration: none;
+   font-size: 30px;
+}
+.buttoncolor3{
+    background-color: darkslategrey;
+    
+}
+.button4{
+    border-radius: 25%/50%;
+    width: 170px;
+    height: 80px;
+    background-color: rgb(72, 112, 77);
+    color: white;
+    text-align: center;
+    font-family: 'Arsenal', sans-serif;
+    font-size: 20px;
+    line-height: 2.5;
+    margin-bottom: 20px;
+    margin-left: 180px;
+    margin-top: 80px;
+    float: left;
+    display: inline;
+}
+
+a{
+   color: white;
+   font-family: 'Arsenal', sans-serif;
+   text-decoration: none;
+   font-size: 30px;
+}
+.buttoncolor4{
+    background-color: darkslategrey;
+    
+}
+.button5{
+    border-radius: 25%/50%;
+    width: 170px;
+    height: 80px;
+    background-color: rgb(72, 112, 77);
+    color: white;
+    text-align: center;
+    font-family: 'Arsenal', sans-serif;
+    font-size: 20px;
+    line-height: 2.5;
+    margin-bottom: 20px;
+    margin-left: 180px;
+    margin-top: 80px;
+    float: left;
+    display: inline;
+}
+
+a{
+   color: white;
+   font-family: 'Arsenal', sans-serif;
+   text-decoration: none;
+   font-size: 30px;
+}
+.buttoncolor5{
+    background-color: darkslategrey;
+    
+}
+#second3{
+   font-size: 4em;
+    color: rgb(255, 83, 61);
+    font-weight: 500;
+    width: 700px;
+    margin-left: 320px;
+    font-family: 'Arsenal', sans-serif;
+    text-align: center;
+    display: none;
+    overflow: auto;
+}
+#third3{
+    font-size: 1em;
+    color: rgb(255, 83, 61);
+    display: none;
+    font-weight: 75;
+    font-family: 'Arsenal', sans-serif;
+ 
+}
+#third4{
+    font-size: 2em;
+    color: rgb(255, 83, 61);
+    display: none;
+    font-weight: 75;
+    margin-left: 20px;
+    font-family: 'Arsenal', sans-serif;
+ 
+}
+#results{
+    font-size: 3em;
+    color: rgb(255, 83, 61);
+    font-weight: 500;
+    width: 700px;
+    margin-left: 320px;
+    font-family: 'Arsenal', sans-serif;
+    text-align: center;
+    display: none;
+    overflow: auto;
+    margin-bottom: 40px;
+}
+#button6{
+    border-radius: 25%/50%;
+    width: 170px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-family: 'Arsenal', sans-serif;
+    font-size: 20px;
+    line-height: 2.5;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 400px;
+    float: left;
+    display: none;
+}
+#button7{
+    border-radius: 25%/50%;
+    width: 170px;
+    height: 80px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-family: 'Arsenal', sans-serif;
+    font-size: 20px;
+    line-height: 2.5;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 200px;
+    float: left;
+    display: none;
+}
+#buttoncolor6{
+    background-color: darkblue;
+}
+
+
