@@ -16,7 +16,6 @@ time, mark, audio, video {
     padding: 0;
     border: 0;
     font-size: 1.2em;
-    font-family: 'Arsenal', sans-serif;
     font-family: 'Sancreek', cursive;
     vertical-align: baseline;
 }
@@ -25,55 +24,43 @@ footer, header, hgroup, menu, nav, section {
     display: block;
 }
 html{
-background: rgb(255, 249, 193);
     height: 650px;
+    background-image: url(FZP4NQ.jpg)
 }
 #first{
-    font-size: 5em;
-    color: rgb(255, 83, 61);
-    margin-left: 520px;
-    margin-top: 30px;
+    font-size: 6em;
+    color: gold;
+    margin-top: 50px;
     font-weight: 300;
-        ;
+    text-align: center;
+    margin-bottom: 40px;
 }
 #second{
     font-size: 1em;
-    color: rgb(255, 83, 61);
-    display: none;
+    color: white;
     font-weight: 100;
     font-family: 'Arsenal', sans-serif;
-}
-#third{
-    font-size: 2em;
-    color: rgb(255, 83, 61);
-    display: none;
-    font-weight: 75;
-    font-family: 'Arsenal', sans-serif;
- 
-}
-#fourth{
-    font-size: 5em;
-    color: rgb(255, 83, 61);
-    display: none;
-    font-weight: 500;
-    width: 700px;
-    font-family: 'Arsenal', sans-serif;
-    overflow: auto;
- 
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 90px;
+    margin-top; 90px;
 }
 .button{
     border-radius: 25%/50%;
     width: 170px;
     height: 80px;
-    background-color: rgb(72, 112, 77);
+    background-color: orchid;
     color: white;
     text-align: center;
     font-family: 'Arsenal', sans-serif;
     font-size: 30px;
     line-height: 2.5;
-    margin-bottom: 20px;
-    display: none;
-    overflow: auto;
+    position: fixed;
+    left: 580px;
+    top: 77%;
+}
+.button:hover{
+    background-color:mediumorchid;
 }
 
 a{
@@ -82,57 +69,56 @@ a{
    text-decoration: none;
    font-size: 30px;
 }
-.buttoncolor{
-    background-color: darkslategrey;
-}
+
 #first2{
     font-size: 5em;
-    color: rgb(255, 83, 61);
+    color: white;
     margin-left: 520px;
-    margin-top: 240px;
+    margin-top: 200px;
     font-weight: 300;
         
 }
 #first3{
     font-size: 5em;
-    color: rgb(255, 83, 61);
+    color: gold;
     margin-left: 400px;
-    margin-top: 240px;
+    margin-top: 200px;
     font-weight: 300;
         
 }
 #first4{
     font-size: 5em;
-    color: rgb(255, 83, 61);
+    color: gold;
     font-weight: 300;
         
 }
 #second2{
-   font-size: 2em;
-    color: rgb(255, 83, 61);
+   font-size: 1em;
+    color: white;
     font-weight: 500;
     width: 700px;
     margin-left: 320px;
     font-family: 'Arsenal', sans-serif;
     text-align: center;
-    display: none;
     overflow: auto;
 }
 .button2{
     border-radius: 25%/50%;
     width: 170px;
     height: 80px;
-    background-color: rgb(72, 112, 77);
+    background-color: orchid;
     color: white;
     text-align: center;
     font-family: 'Arsenal', sans-serif;
     font-size: 30px;
     line-height: 2.5;
-    margin-bottom: 20px;
-    margin-top: 40px;
-    margin-left: 590px;
-    display: none;
-    overflow: auto;
+    position: fixed;
+    left: 580px;
+    top: 66%;
+ 
+}
+.button2:hover{
+    background-color:mediumorchid;
 }
 
 a{
@@ -141,17 +127,14 @@ a{
    text-decoration: none;
    font-size: 30px;
 }
-.buttoncolor2{
-    background-color: darkslategrey;
-    
-}
+
 #question{
     font-size: 2.5em;
-    color: rgb(255, 83, 61);
+    color: white;
     margin-left: 160px;
-    margin-top: 160px;
+    margin-top: 200px;
     margin-right: 160px;
-    font-weight: 700;
+    font-weight: 500;
     font-family: 'Arsenal', sans-serif;
     text-align: center;
         
@@ -160,17 +143,20 @@ a{
     border-radius: 25%/50%;
     width: 170px;
     height: 80px;
-    background-color: rgb(72, 112, 77);
+    background-color: orchid;
     color: white;
     text-align: center;
     font-family: 'Arsenal', sans-serif;
     font-size: 20px;
     line-height: 2.5;
-    margin-top: 80px;
-    margin-left: 200px;
-    float: left;
-    display: inline;
+    position: fixed;
+    left: 250px;
+    top: 66%;
 }
+.button3:hover{
+    background-color:mediumorchid;
+}
+
 
 a{
    color: white;
@@ -178,25 +164,24 @@ a{
    text-decoration: none;
    font-size: 30px;
 }
-.buttoncolor3{
-    background-color: darkslategrey;
-    
-}
+
 .button4{
     border-radius: 25%/50%;
     width: 170px;
     height: 80px;
-    background-color: rgb(72, 112, 77);
+    background-color: orchid;
     color: white;
     text-align: center;
     font-family: 'Arsenal', sans-serif;
     font-size: 20px;
     line-height: 2.5;
-    margin-bottom: 20px;
-    margin-left: 180px;
-    margin-top: 80px;
     float: left;
-    display: inline;
+    position: fixed;
+    left: 900px;
+    top: 66%;
+}
+.button4:hover{
+    background-color:mediumorchid;
 }
 
 a{
@@ -213,17 +198,19 @@ a{
     border-radius: 25%/50%;
     width: 170px;
     height: 80px;
-    background-color: rgb(72, 112, 77);
+    background-color: orchid;
     color: white;
     text-align: center;
     font-family: 'Arsenal', sans-serif;
     font-size: 20px;
     line-height: 2.5;
-    margin-bottom: 20px;
-    margin-left: 180px;
-    margin-top: 80px;
-    float: left;
-    display: inline;
+    position: fixed;
+    left: 580px;
+    top: 66%;
+ 
+}
+.button5:hover{
+    background-color:mediumorchid;
 }
 
 a{
