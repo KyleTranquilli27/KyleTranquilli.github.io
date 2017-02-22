@@ -95,14 +95,16 @@ a {
      #hey{
      width: 9%;
      font-size: 20px;
+     color: deeppink;
      margin-left: 4%;
+     display: none;
          
 }
     #big{
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 700;
-    padding-right: 100%;    
-    width: 28%;
+    padding-right: 110%;    
+    width: 38%;
     color: deeppink;
 }
     .NYLON2{
@@ -110,10 +112,12 @@ a {
      font-size: 12px;
      margin-top: 4px;
      text-align: left;
+     color: deeppink;
+        
          
 }
     a {
-    display: none;
+   display: none;
 }
     .images img{
     margin-left: 1%;
