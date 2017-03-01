@@ -11,11 +11,11 @@ console.log("hello there");
     $(".button").on("click", function() {
        $(this).toggleClass("active"); 
        $("body").toggleClass("dark"); 
-       $("h1").html("Clicked");
+       $("h1").html("What");
     });
     
      $("h1").on("click", function(){
-         $(this).html("Switch");
+         $(this).html("Up");
          
      });
 

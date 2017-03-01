@@ -4,7 +4,7 @@ html, body {
 
 
 .dark{
-    background-color: black;
+    background-color: pink;
 }
 body{
    transition: background-color 0.5s linear;
@@ -18,7 +18,7 @@ body{
   border-radius: 8px;
   background-image: url("../img/switch-off.png");
   cursor: pointer;
-  transition: all 0.5s ease-in-out;
+  transition: all 0.5s;
 }
 h1{
     font-size: 100px;
