@@ -1,0 +1,70 @@
+/* Begin CSS Reset code */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 1.2em;
+    font-family: 'Sancreek', cursive;
+    vertical-align: baseline;
+}
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+html{
+    background-size: 1300px 786px;
+      
+    
+}
+.first{
+      height: 768px;
+      width: 1300px;
+      background-size:cover;
+      background-image: url(MARILYN%20BLINK.jpg);
+}
+.hidden{
+    background-image: url(MARILYN%20GOOD.jpg);
+    
+}
+
+.second{
+      background-image: url(MADONNA%20BLINK%20copy.jpg);
+}
+.secondhidden{
+      height: 768px;
+      width: 1300px;
+      background-size:cover;
+      background-image: url(MADONNA.jpg);
+}
+.third{
+      height: 768px;
+      width: 1300px;
+      background-size:cover;
+      background-image: url(MARILYN%202%20BLINK.jpg);
+}
+.thirdhidden{
+    background-image: url(MARILYN%202.jpg);
+    
+}
+.fourth{
+      height: 768px;
+      width: 1300px;
+      background-size:cover;
+      background-image: url(MADONNA%20GLITTER.jpg);
+}
+.fourthidden{
+    background-image: url(MADONNA%20NO%20GLITTER.jpg);
+    
+}
