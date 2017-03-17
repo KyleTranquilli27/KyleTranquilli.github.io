@@ -2,7 +2,7 @@ $(document).ready(function(){
     "use strict"; 
 
 $("#ariesdesc").ready(function(){
-    $("#results, .button7, .button6, #ariesdesc").fadeIn(3500);
+    $("#results, .button7, .button6, #ariesdesc").fadeIn(10000);
     $("#results").fadeIn(10);
     $("#ariesdesc").fadeIn(20);
 });

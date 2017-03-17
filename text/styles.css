@@ -30,10 +30,10 @@ html{
 #first{
     font-size: 6em;
     color: gold;
-    margin-top: 50px;
+    margin-top: 7%;
     font-weight: 300;
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 1%;
 }
 #first2{
     font-size: 5em;
@@ -69,8 +69,8 @@ html{
     color: white;
     font-weight: 100;
     font-family: 'Arsenal', sans-serif;
-    margin-left: 90px;
-    margin-right: 90px;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-bottom: 90px;
     margin-top; 90px;
 }
@@ -112,9 +112,10 @@ html{
     font-family: 'Arsenal', sans-serif;
     font-size: 30px;
     line-height: 2.5;
-    position: fixed;
-    left: 580px;
+    position: relative;
+    left: 44%;
     top: 77%;
+    
 }
 .button:hover{
     background-color:mediumorchid;
