@@ -58,11 +58,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fe0e0', end
       background-image: url(MARILYN%20BLINK.jpg);
 }
 .hidden{
+     width: 100%;
+      height: 100vh;
     background-image: url(MARILYN%20GOOD.jpg);
     
 }
 
 .second{
+     width: 100%;
+      height: 100vh;
       background-image: url(MADONNA%20BLINK%20copy.jpg);
 }
 .secondhidden{
@@ -79,6 +83,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fe0e0', end
       background-image: url(MARILYN%202%20BLINK.jpg);
 }
 .thirdhidden{
+     width: 100%;
+      height: 100vh;
     background-image: url(MARILYN%202.jpg);
     
 }
@@ -89,6 +95,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fe0e0', end
       background-image: url(MADONNA%20GLITTER.jpg);
 }
 .fourthidden{
+     width: 100%;
+      height: 100vh;
     background-image: url(MADONNA%20NO%20GLITTER.jpg);
     
 }
@@ -99,6 +107,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fe0e0', end
       background-image: url(ANNA%20NICOLE%20BLINK.jpg);
 }
 .fivehidden{
+     width: 100%;
+      height: 100vh;
     background-image: url(ANNA%20NICOLE.jpg);
     
 }
@@ -110,6 +120,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fe0e0', end
       background-image: url(ANNA%20NICOLE%20BLINK2.jpg);
 }
 .sixhidden{
+     width: 100%;
+      height: 100vh;
     background-image: url(ANNA%20NICOLE%20BLINK%202.jpg);
     
 }
@@ -120,6 +132,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fe0e0', end
       background-image: url(ANNA%203%20Blink.jpg);
 }
 .sevenhidden{
+     width: 100%;
+      height: 100vh;
     background-image: url(ANNA%203%20Normal.jpg);
     
 }
@@ -131,6 +145,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fe0e0', end
       background-image: url(GWEN%20BLINK.jpg);
 }
 .eighthidden{
+     width: 100%;
+      height: 100vh;
     background-image: url(GWEN.jpg);
     
 }
@@ -141,6 +157,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fe0e0', end
       background-image: url(FINAL%20MARILYN%20BLINK.jpg);
 }
 .finalhidden{
+     width: 100%;
+      height: 100vh;s
     background-image: url(Final%20Marilyn.jpg);
     
 }
