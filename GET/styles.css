@@ -60,12 +60,12 @@ html{
     margin-bottom: 1%;
 }
 #first6{
-    font-size: 5em;
+   font-size: 5em;
     color: gold;
-    margin-left: 520px;
-    margin-top: 50px;
+    margin-top: 7%;
     font-weight: 300;
-    display: none;
+    text-align: center;
+    margin-bottom: 1%;
 }
 #second{
     font-size: 1em;
@@ -205,7 +205,7 @@ html{
     font-size: 20px;
     line-height: 2.5;
     margin-bottom: 40px;
-    margin-left: 400px;
+    margin-left: 37%;
     float: left;
     display: none;
 }
@@ -224,7 +224,7 @@ html{
     font-size: 20px;
     line-height: 2.5;
     margin-bottom: 40px;
-    margin-left: 200px;
+    margin-left: 10%;
     float: left;
     display: none;
 }
@@ -293,28 +293,23 @@ a{
 
 #results{
     font-size: 2em;
-    color: rgb(255, 83, 61);
-    font-weight: 500;
-    width: 700px;
     color: gold;
-    margin-left: 320px;
+    margin-top: 4%;
+    font-weight: 300;
     text-align: center;
-    overflow: auto;
-    margin-bottom: 40px;
+    margin-bottom: 1%;
     display: none;
-    margin-top: 20px;
 }
 
 #ariesdesc{
-   font-size: .9em;
+  font-size: 1em;
     color: white;
     font-weight: 100;
-    width: 1000px;
-    margin-left: 150px;
     font-family: 'Arsenal', sans-serif;
-    text-align: left;
-    overflow: auto;
-    margin-bottom: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 50px;
+    margin-top; 90px;
     display: none;
 }
 #right{
