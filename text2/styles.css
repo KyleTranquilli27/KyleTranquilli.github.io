@@ -25,10 +25,9 @@ footer, header, hgroup, menu, nav, section {
 }
 html{
     background-image: url(FZP4NQ.jpg);
-    background-repeat: no-repeat;
-    width: 100%;
     background-size: cover;
-    height: 100vh;
+    height: 100%;
+      width: 100%;
 }
 #first{
     font-size: 6em;
