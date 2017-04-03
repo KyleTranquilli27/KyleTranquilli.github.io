@@ -119,7 +119,7 @@ html{
     font-size: 30px;
     line-height: 2.5;
     position: relative;
-    left: 44.5%;
+       left: 44%;
     top: 77%;
     
 }
@@ -137,7 +137,7 @@ html{
     font-size: 30px;
     line-height: 2.5;
     position: relative;
-    left: 45.5%;
+    left: 44%;
     top: 77%;
  }
 .button2:hover{
@@ -206,7 +206,7 @@ html{
     font-family: 'Arsenal', sans-serif;
     font-size: 20px;
     line-height: 2.5;
-    margin-bottom: 20%;
+    margin-bottom: 6%;
     margin-left: 30%;
     float: left;
     display: none;
@@ -225,7 +225,7 @@ html{
     font-family: 'Arsenal', sans-serif;
     font-size: 20px;
     line-height: 2.5;
-    margin-bottom: 20%;
+    margin-bottom: 6%;
     margin-right: 32%;
     float: right;
     display: none;
