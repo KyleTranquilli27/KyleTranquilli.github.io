@@ -24,8 +24,22 @@ footer, header, hgroup, menu, nav, section {
     display: block;
 }
 html{
-    height: 650px;
-    background-image: url(FZP4NQ.jpg)
+
+
+}
+
+body{
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f5ffe0+0,cbebff+97,d8ffff+100 */
+background: #f5ffe0; /* Old browsers */
+background: -moz-linear-gradient(top, #f5ffe0 0%, #cbebff 97%, #d8ffff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #f5ffe0 0%,#cbebff 97%,#d8ffff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #f5ffe0 0%,#cbebff 97%,#d8ffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5ffe0', endColorstr='#d8ffff',GradientType=0 ); /* IE6-9 */
+    
 }
 #first{
     font-size: 5em;
@@ -44,7 +58,7 @@ html{
    font-family: 'Roboto Mono', monospace;
     margin-left: 5%;
     margin-right: 5%;
-    margin-bottom: 2%;
+
     margin-top: 1%;
 
 }
@@ -63,6 +77,7 @@ h2{
     color: goldenrod;
     font-weight: 300;
     text-align: left;
+    margin-top: 2%;
     font-family: 'Roboto Mono', monospace;
     margin-bottom: 1%;
     margin-right: 50%;
@@ -75,7 +90,7 @@ h2{
     margin-left: 15%;
 }
 img{
-    margin-left: 26%;
+    margin-left: 25%;
     margin-top: 5%;
     margin-bottom: 2%;
 }
