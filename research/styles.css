@@ -30,7 +30,7 @@ html{
 #first{
     font-size: 5em;
     color: black;
-    margin-top: 7%;
+    margin-top: 2%;
     font-weight: 300;
     text-align: left;
     font-family: 'Roboto Mono', monospace;
@@ -44,7 +44,7 @@ html{
    font-family: 'Roboto Mono', monospace;
     margin-left: 5%;
     margin-right: 5%;
-    margin-top; 90px;
+
 }
 h2{
     font-size: 1em;
