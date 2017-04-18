@@ -7,10 +7,10 @@ $.getJSON(url, function(data) {
       console.log(data["current"]["temp_f"]);   
     $("#weather").html(data["current"]["temp_f"]);
     
-     if (data["current"]["temp_f"]<30){
+     if (data["current"]["temp_f"]<50){
      $("#weather").html("It Cold");
  }
-         if (data["current"]["temp_f"]>30){
+         if (data["current"]["temp_f"]>50){
      $("#weather").html("It Hot");
  }
      
