@@ -33,6 +33,9 @@ $(document).ready(function(){
       $('.surround').mouseover(function(){
     $('.attack').fadeIn(1000);
 })
+        $('.attack').mouseover(function(){
+    $('.hey5').fadeIn(1000);
+})
     $(".bold").mouseover(function(){
     $(".hey3").animate({left: '37%'}, 1500);
 }); 

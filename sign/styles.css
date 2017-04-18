@@ -18,7 +18,6 @@ time, mark, audio, video {
     font-size: 1.2em;
     font-family: sans-serif;
     vertical-align: baseline;
-    //use z z-index: 
 }
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -176,6 +175,7 @@ font-family: 'Arsenal', sans-serif;
     position: fixed;
 font-family: 'Arsenal', sans-serif;
     line-height: 32px;
+    display: none;
     
     
 }
